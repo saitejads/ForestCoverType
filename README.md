@@ -4,9 +4,9 @@ Here is the Kaggle link of the challenge: https://www.kaggle.com/c/forest-cover-
 
 # Dependencies:
 
-Numpy
-Pandas
-Matplotlib
-Scikit
+Numpy   |||
+Pandas   |||
+Matplotlib   |||
+Scikit    |||
 Keras
 
